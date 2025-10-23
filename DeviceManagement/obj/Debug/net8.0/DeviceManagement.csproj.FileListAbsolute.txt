@@ -1,0 +1,15 @@
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\net8.0\DeviceManagement.exe
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\net8.0\DeviceManagement.dll.config
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\net8.0\DeviceManagement.deps.json
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\net8.0\DeviceManagement.runtimeconfig.json
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\net8.0\DeviceManagement.dll
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\net8.0\DeviceManagement.pdb
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.AssemblyInfoInputs.cache
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.AssemblyInfo.cs
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.dll
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\refint\DeviceManagement.dll
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.pdb
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\DeviceManagement.genruntimeconfig.cache
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\net8.0\ref\DeviceManagement.dll

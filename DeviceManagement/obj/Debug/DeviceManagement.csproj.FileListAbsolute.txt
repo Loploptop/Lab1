@@ -1,0 +1,7 @@
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\DeviceManagement.exe.config
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\DeviceManagement.exe
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\bin\Debug\DeviceManagement.pdb
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\DeviceManagement.csproj.AssemblyReference.cache
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\DeviceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\DeviceManagement.exe
+C:\Users\Yakona\Desktop\LABA1\DeviceManagement\obj\Debug\DeviceManagement.pdb
